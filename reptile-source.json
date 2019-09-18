@@ -55,7 +55,7 @@
                 "splits": []
             }
         }, 
-        "supportReptileVersion": 999
+        "supportReptileVersion": 1
     },
     {
         "name": "quantuwang", 
@@ -329,6 +329,6 @@
                 "splits": []
             }
         }, 
-        "supportReptileVersion": 2
+        "supportReptileVersion": 1
     }
 ]
